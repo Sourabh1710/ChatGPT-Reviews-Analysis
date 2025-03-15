@@ -4,7 +4,7 @@
 I analyzed user reviews of ChatGPT, including textual feedback, ratings, and review dates. The goal was to understand user sentiment, identify what users like and dislike, analyze trends over time, and compute the Net Promoter Score (NPS) for ChatGPT.
 
 ## Dataset
-The dataset consists of user reviews, including:
+The [dataset](https://statso.io/what-people-think-about-chatgpt-case-study/) consists of user reviews, including:
 - Textual feedback
 - Ratings (1 to 5 stars)
 - Review dates
